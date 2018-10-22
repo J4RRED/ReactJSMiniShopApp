@@ -1,0 +1,105 @@
+/* Styles go here */
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* unvisited link */
+a:link {
+    color: none;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: #FFC97F;
+}
+
+/* selected link */
+a:active {
+    color: black;
+}
+
+.a {
+    color: black;
+    text-shadow: .5px .5px 1px gray;
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+.b {
+    color: black;
+    text-shadow: .5px .5px 1px gray;
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+h3 {
+  height: 0px;
+  font-variant: small-caps;
+  font-size: small;
+  font-family: helvetica, sans-serif;
+  letter-spacing: 2px;
+  text-align: center;
+} 
+
+h4 {
+    color: black;
+    letter-spacing: 2px;
+    text-align: right;
+    font-variant: small-caps;
+    font-family: helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+#pc {
+    color: black;
+    letter-spacing: 3px;
+    text-align: center;
+    font-variant: small-caps;
+    font-family: helvetica, sans-serif;
+    font-size: large;
+}
+
+#pd {
+    color: black;
+    letter-spacing: 1px;
+    text-align: center;
+    font-variant: small-caps;
+    font-family: helvetica, sans-serif;
+    font-weight: lighter;
+    font-style: italic;
+    font-size: small;
+}
+
+#pe {
+    color: black;
+    letter-spacing: 3px;
+    text-align: left;
+    font-variant: small-caps;
+    font-family: helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+
+#top {
+  height: 0px;
+  font-variant: small-caps;
+  font-size: x-small;
+  font-family: helvetica, sans-serif;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+#bottom {
+  height: 0px;
+  font-variant: small-caps;
+  font-size: x-small;
+  font-family: helvetica, sans-serif;
+  letter-spacing: 2px;
+  text-align: center;
+} 
